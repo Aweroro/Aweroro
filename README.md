@@ -2,7 +2,7 @@
 - I am a tech and blockchain enthusiast 
 - 👀 I’m interested in Mobile and Web Development
 - I build and deploy web and mobile apps
-- 💞️ I’m looking to collaborate on Mobile Apps, Progressive Web Apps etc...
+- 💞️ I’m looking to collaborate on Web Apps etc...
 - 📫 How to reach me: hadistic20@gmail.com/08082742862
 
 
